@@ -10,3 +10,8 @@ To run the app locally:
 - Flask handles routing and image uploads
 - TensorFlow/Keras performs inference using VGG19
 - Frontend uses HTML/CSS/JS with AJAX for predictions
+
+## Demo
+
+![Flask Image Classifier Demo](screenshots/demo1.png)
+![Flask Image Classifier Demo](screenshots/demo2.png)
