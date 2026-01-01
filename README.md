@@ -42,22 +42,22 @@ The trained model file (`vgg19.h5`) is **not included** in this repository due t
 
 ## 📂 Project Structure
 
-flask_image_classifier/
-├── app.py
-├── model/
-│   └── vgg19.h5        # (not included, add manually)
-├── templates/
-│   ├── base.html
-│   └── index.html
-├── static/
-│   ├── css/
-│   └── js/
-├── screenshots/
-├── notebooks/
-├── uploads/
-├── requirements.txt
-├── README.md
-└── .gitignore
+  flask_image_classifier/
+  ├── app.py
+  ├── model/
+  │   └── vgg19.h5        # (not included, add manually)
+  ├── templates/
+  │   ├── base.html
+  │   └── index.html
+  ├── static/
+  │   ├── css/
+  │   └── js/
+  ├── screenshots/
+  ├── notebooks/
+  ├── uploads/
+  ├── requirements.txt
+  ├── README.md
+  └── .gitignore
 
 ---
 
